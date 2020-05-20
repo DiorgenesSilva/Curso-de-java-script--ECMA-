@@ -1,4 +1,4 @@
-# Curso de java script  ECMA 
+# Curso de JAVA SCRIPT e ECMA SCRIPT
  Curso Online de Java Script ECMA 
 
 Oque é Java Script e ECMA Script ? 
