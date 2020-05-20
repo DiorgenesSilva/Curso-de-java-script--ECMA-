@@ -12,3 +12,4 @@ Os Clientes utilizam serviços fornecidos pelos servidores como,WhatHsapp,Facebo
 Após chegar ao servidor ele é um pouco parecido com a sua maquina de maneira fundamental,ele tem um Sistema Operacional,Pastas,diretorios internos e ele tem arquivos. E este arquivo é que o cliente esta interessado.Esta pasta pode ser uma Foto,Um texto,Video ou na maioria dasvezes um arquivo HTML.
 
 Quando o cliente solicita o arquivo para o servidor ele  envi uma cópia e envia para o navegador do cliente o navegador apartir desta solicitação começa a trabalhar para gerar este arquivo no seu aparelho.
+
